@@ -1,0 +1,23 @@
+.pointer{
+    cursor: pointer;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-colomn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.white{
+    color: white;
+}
+.hidden{
+    display: none;
+}
+.block{
+    display: block;
+}
